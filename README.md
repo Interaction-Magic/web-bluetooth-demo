@@ -22,6 +22,12 @@ To get this demo running:
 
 3. Open the `web-demo/index.html` file in Chrome or Edge and connect!
 
+## Javascript library
+
+To use the handy `BTConnector` JS library I wrote, just include this in your HTML file (or maybe it will be blocked due to CORS?)
+
+`<script src="https://raw.githubusercontent.com/gcsalzburg/web-bluetooth-demo/main/web-demo/lib/BTConnector.js"></script>`
+
 ## Useful Background
 
 Bluetooth LE is part of Bluetooth 4.0.

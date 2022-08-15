@@ -24,9 +24,9 @@ To get this demo running:
 
 ## Javascript library
 
-To use the handy `BTConnector` JS library I wrote, just include this in your HTML file (or maybe it will be blocked due to CORS?)
+This demo uses the handy `BTConnector` JS library I wrote. You can download it from [this Github repo](https://github.com/Interaction-Magic/ux-proto-tools) or hotlink directly (not recommended):
 
-`<script src="https://raw.githubusercontent.com/gcsalzburg/web-bluetooth-demo/main/web-demo/lib/BTConnector.js"></script>`
+`<script src="https://lib.interactionmagic.com/src/BTConnector.js"></script>`
 
 ## Useful Background
 

@@ -44,6 +44,9 @@ The Arduino demo also shows how to rename the device that is advertised to a cus
 
 ## Further reading
 
++ Check and debug Bluetooth connections in Google Chrome:
+  chrome://bluetooth-internals/
+
 + Good basic theory on GATT, services and characteristics:
   https://devzone.nordicsemi.com/nordic/short-range-guides/b/bluetooth-low-energy/posts/ble-services-a-beginners-tutorial
 
